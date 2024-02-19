@@ -7,11 +7,20 @@
 
 ![Alt test](https://github.com/Vallen217/dotfiles/blob/main/screenshots/spicetify_ghost_2.png?raw=true)
 
+## Prerequisites
+
+The `user.css` uses the `ShureTechMono Nerd Font`, which can be downloaded here:
+
+- [Website](https://www.nerdfonts.com/)
+- [Zip file](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/ShareTechMono.zip)
+
+Alternatively you may delete & uncomment a few lines inside the `user.css` file to set a different font, or choose your own.
+
 ## Usage
 
 1. Follow the installation instructions from [Spicetify](https://spicetify.app/docs/getting-started)
 
-2. clone this repository:
+2. clone the spicetify-eidolon repository:
 
 ```
 git clone https://github.com/Vallen217/spicetify-eidolon
