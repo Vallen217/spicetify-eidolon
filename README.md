@@ -1,0 +1,2 @@
+# spicetify-eidolon
+Spicetify theme
