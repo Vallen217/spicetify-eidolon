@@ -3,9 +3,9 @@
 - Theme: eidolon
 - Color-scheme: ghost
 
-![Alt test](https://github.com/Vallen217/dotfiles/blob/main/screenshots/spicetify_ghost_1.png?raw=true)
+![Alt test](https://github.com/Vallen217/spicetify_eidolon/blob/main/screenshots/spicetify_ghost_1.png?raw=true)
 
-![Alt test](https://github.com/Vallen217/dotfiles/blob/main/screenshots/spicetify_ghost_2.png?raw=true)
+![Alt test](https://github.com/Vallen217/spicetify_eidolon/blob/main/screenshots/spicetify_ghost_2.png?raw=true)
 
 ## Prerequisites
 
